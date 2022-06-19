@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DustinThebegginer
-- 🌱 I am a python programmer but now i'm learning c++
+- 🌱 I am a python programmer but now i'm learning js
 - 📫 How to reach me : discord: Dustin69x#2308
 
 <!---
