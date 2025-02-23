@@ -61,18 +61,12 @@ I believe in the power of continuous learning, problem-solving, and securing the
 ---
 
 ## 🌍 **Connect with Me:**
-- [LinkedIn](https://www.linkedin.com/in/skanderwali)
-- [Twitter](https://twitter.com/skander_wali)
-- [GitHub](https://github.com/SkanderWali)
+- [LinkedIn](www.linkedin.com/in/skander-wali-b96344229)
+- [X](https://x.com/ChillPill184333)
+- [GitHub](https://github.com/DustinThebegginer)
 
 ---
 
-## 🏆 **CTF Achievements:**
-- 🏅 **Team "Cyberbenders"** - Ranked #X on **CTFtime**  
-- 🥇 **1st place** in **"The grayscale Key"**  
-- 🏆 **Top scorer** in **PyJail Challenge**
-
----
 
 ## 📈 **Goals:**
 - By the age of 25, I aim to be a professional **cybersecurity engineer** at a global security firm.
